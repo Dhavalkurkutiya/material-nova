@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [2.0.0](https://github.com/Dhavalkurkutiya/material-nova/compare/v1.0.7...v2.0.0) (2026-05-20)
+
+
+### Features
+
+* automate VSIX extension packaging in build script ([09b0f2a](https://github.com/Dhavalkurkutiya/material-nova/commit/09b0f2ab1ffff6785d79652f533a2cb45f2d0f74))
+
 ### 1.0.7 (2026-05-20)
 ### Added
 - **Theme Builder Automation**: Implemented a Node.js compiler (`build.js`) that automatically compiles VS Code theme JSON files from a single master template (`src/base-template.json`) and flat variant-specific color palettes (`src/palettes/`).
