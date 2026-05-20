@@ -28,9 +28,14 @@ jobs:
       - name: Package Extension
         run: npx @vscode/vsce package
 
+      - name: Get Version from package.json
+        id: get_version
+        run: echo "tag_name=v$(node -p "require('./package.json').version")" >> $GITHUB_OUTPUT
+
       - name: Create GitHub Release
         uses: softprops/action-gh-release@v2
         with:
+          tag_name: ${{ github.ref_type == 'tag' && github.ref_name || steps.get_version.outputs.tag_name }}
           files: "*.vsix"
           generate_release_notes: true
         env:
