@@ -1,0 +1,19 @@
+# Dependency directories
+node_modules/
+
+# VSIX packaging output
+*.vsix
+
+# VS Code test and temporary files
+.vscode-test/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Log files
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
