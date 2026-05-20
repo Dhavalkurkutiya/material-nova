@@ -48,13 +48,6 @@ Explore a carefully curated set of 12 variants tailored to your environmental li
 | **Material Nova Deepforest HC** | `#0D1413` | `#FFFFFF` | Rich organic high-contrast layout. |
 | **Material Nova Lighter** | `#FAFAFA` | `#90A4AE` | Perfect for bright daylight or outdoor offices. |
 | **Material Nova Lighter HC** | `#FFFFFF` | `#263238` | Maximum daylight visibility. |
-
----
-
-## 📸 Screenshots
-
-*(Screenshots coming soon! Open your VS Code command palette, switch variants, and preview them live instantly.)*
-
 ---
 
 ## 🚀 Quick Setup & Installation
