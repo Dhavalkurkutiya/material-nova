@@ -2,6 +2,12 @@
 
 All notable changes to the **Material Nova** extension will be documented in this file.
 
+## [1.0.5] - 2026-05-20
+### Fixed
+- Fixed the markdown table layout in README.md by inserting appropriate blank line separation. This resolves the rendering bug on the VS Code Marketplace where variants were collapsed into a single block of plain text.
+
+---
+
 ## [1.0.4] - 2026-05-20
 ### Fixed
 - Fixed critical logo rendering issue in the VS Code Marketplace using high-availability cloud-hosted direct ImgBB asset.
