@@ -1,6 +1,8 @@
 # Changelog
 
-All notable changes to the **Material Nova** extension will be documented in this file.
+All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
+
+### 1.0.6 (2026-05-20)
 
 ## [1.0.5] - 2026-05-20
 ### Fixed
