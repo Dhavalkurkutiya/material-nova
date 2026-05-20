@@ -2,7 +2,12 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
-### 1.0.6 (2026-05-20)
+### 1.0.7 (2026-05-20)
+### Added
+- **Theme Builder Automation**: Implemented a Node.js compiler (`build.js`) that automatically compiles VS Code theme JSON files from a single master template (`src/base-template.json`) and flat variant-specific color palettes (`src/palettes/`).
+- **New Variant - Material Nova Sakura**: Added a stunning premium Cherry Blossom-inspired dark theme featuring deep rose charcoal backgrounds and vibrant neon peach and rose accents.
+- **Improved Packaging**: Cleaned up the redundant root `themes/` folder and updated `.vscodeignore` to prevent source files (`src/`, `build.js`) from bloat-packing into the final VS Code extension package.
+
 
 ## [1.0.5] - 2026-05-20
 ### Fixed
