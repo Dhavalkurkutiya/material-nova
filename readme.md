@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="logo.png" alt="Material Nova Logo" width="128" height="128" />
+  <img src="https://raw.githubusercontent.com/Dhavalkurkutiya/material-nova/main/logo.png" alt="Material Nova Logo" width="128" height="128" />
 </p>
 
 <h1 align="center">Material Nova</h1>
