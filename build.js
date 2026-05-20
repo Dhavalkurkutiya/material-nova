@@ -1,5 +1,6 @@
 const fs = require('fs');
 const path = require('path');
+const { execSync } = require('child_process');
 
 const srcDir = path.join(__dirname, 'src');
 const palettesDir = path.join(srcDir, 'palettes');
@@ -77,3 +78,18 @@ paletteFiles.forEach(file => {
 });
 
 console.log(`\nSuccessfully compiled ${compiledCount} themes!`);
+
+// Package the extension as .vsix
+console.log('\nPackaging VSIX extension...');
+try {
+  const output = execSync('npx @vscode/vsce package --no-dependencies', {
+    cwd: __dirname,
+    encoding: 'utf8',
+    stdio: ['pipe', 'pipe', 'pipe']
+  });
+  console.log(output.trim());
+  console.log('VSIX package created successfully!');
+} catch (err) {
+  console.error('Error creating VSIX package:', err.stderr || err.message);
+  process.exit(1);
+}
