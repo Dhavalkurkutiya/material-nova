@@ -20,6 +20,7 @@
     "vscode": "^1.51.0"
   },
   "scripts": {
+    "build": "node build.js",
     "release": "git pull && standard-version && git push --follow-tags",
     "release:patch": "git pull && standard-version --release-as patch && git push --follow-tags",
     "release:major": "git pull && standard-version --release-as major && git push --follow-tags"
@@ -119,6 +120,11 @@
         "label": "Material Nova Lighter High Contrast",
         "path": "./build/themes/Material-Nova-Lighter-High-Contrast.json",
         "uiTheme": "vs"
+      },
+      {
+        "label": "Material Nova Sakura",
+        "path": "./build/themes/Material-Nova-Sakura.json",
+        "uiTheme": "vs-dark"
       }
     ]
   },

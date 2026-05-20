@@ -2,6 +2,7 @@
 .vscode
 .vscodeignore
 .husky
-themes
+src
+build.js
 material-theme.config.json
 [Content_Types].xml
