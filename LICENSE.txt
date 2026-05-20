@@ -1,0 +1,89 @@
+# Terms & Conditions for Vira Theme and Vira Icons
+
+## 1. Introduction
+By accessing or using Vira Theme and Vira Icons (“the Products”), you agree to comply with these Terms & Conditions. These Products are UI themes designed for use with various code editors and software platforms. The Products are provided by Vira Theme (“we,” “us,” or “our”).
+
+## 2. License Grant and Usage
+Subject to compliance with these Terms, we grant you a *non-exclusive, non-transferable, revocable license* to:
+- Use the Products for personal or commercial purposes.
+- Install the Products on devices you own or control.
+
+This agreement also grants you a commercial license to install and use the Products extension on unlimited devices for business purposes. You may **not** redistribute, modify, reverse-engineer, or create derivative works without explicit written permission. This license is non-sublicensable and limited to the version acquired at purchase. Future versions may require additional fees.
+
+## 3. Restrictions
+You agree to:
+- Not reverse engineer, modify, decompile, or disassemble the extension's source code.
+- Not use the extension for illegal or unauthorized activities.
+- Not share, resell, or transfer your license to third parties.
+- Not create, distribute, or sell software, themes, icons, or products that:
+  - Use a name, logo, branding, or visual design *confusingly similar* to Vira Theme, Vira Icons, or our brand identity.
+  - Mislead customers into believing they are affiliated with or endorsed by us.
+  - Copy, mimic, or appropriate our intellectual property (e.g., trade dress, color schemes).
+- Not subject the extension to benchmarking or performance evaluation tests for comparative or public purposes without written authorization.
+- Not use or distribute the extension in cloud computing environments, SaaS (Software as a Service) distribution, or shared platforms without written approval.
+- Not use the extension to create misleading or fraudulent content, or in a way that could harm the reputation of the product or the author.
+
+## 4. License Deactivation and Termination
+We reserve the right to deactivate your license *without prior notice* for reasons including, but not limited to:
+- Breach of these Terms (e.g., unauthorized redistribution).
+- Suspicion of fraudulent activity or payment disputes (e.g., chargebacks).
+- Non-payment of applicable fees (if applicable).
+
+### Consequences of Deactivation:
+- Immediate termination of access to the Products.
+- No refunds for previously paid licenses.
+
+The license is valid from the purchase date and remains effective unless the user breaches the terms of this agreement. The author reserves the right to revoke the license in case of violation. Upon termination, the user must delete all copies and provide written confirmation of destruction.
+
+## 5. Intellectual Property Protection
+All rights, titles, and interests in the Products (including trademarks, copyrights, and trade dress) are owned exclusively by us. The user acquires no intellectual property rights in the extension. Any modifications, even if unauthorized, remain the author’s exclusive property. The user waives moral rights to claim ownership of derivative works.
+
+You may **not**:
+- Use our intellectual property to create competing or derivative works, including but not limited to “look-alike” products or software that replicates the functionality, branding, or aesthetic of the Products.
+- Register or attempt to register any part of the extension as their own trademark, intellectual property, or patent.
+
+## 6. Warranties and Limitation of Liability
+The software is provided *“AS IS”* and *“AS AVAILABLE”* without warranties of any kind, express or implied. We disclaim all warranties, including:
+- Fitness for a particular purpose.
+- Non-infringement.
+- Compatibility with all software versions or third-party platforms.
+- Uninterrupted, error-free, or secure operation.
+
+We shall not be liable for any direct, indirect, incidental, consequential, or punitive damages arising from:
+- Use or inability to use the Products.
+- Unauthorized access to your data or devices.
+- Third-party conduct related to the Products.
+
+Our total liability is limited to the amount you paid for the Products in the preceding 12 months.
+
+## 7. Updates, Support, and Confidentiality
+The author may, at their discretion, provide updates or fixes for the extension. Updates may be subject to additional terms. The author reserves the right to deprecate features or discontinue support without notice. Updates may include telemetry or DRM mechanisms.
+
+The user agrees to treat any technical or business information related to the extension as confidential unless authorized in writing by the author. Obligations persist for 5 years after license termination.
+
+## 8. Indemnification
+You agree to indemnify us against claims, losses, or damages resulting from your misuse of the Products or violation of these Terms.
+
+## 9. Governing Law and Dispute Resolution
+These Terms are governed by the laws of Italy. Disputes will be resolved under Italian law, and claims must be filed exclusively in the courts of Milan, Italy.
+
+## 10. Compliance and Audit
+The author may request records of installations or audit compliance. Refusal to comply may result in immediate termination of the license.
+
+## 11. Changes to Terms
+We may update these Terms at any time. Changes become effective immediately upon posting on our website. Continued use constitutes acceptance of revised Terms.
+
+## 12. Contact Information
+For questions or license disputes, contact:
+- Email: support@
+
+## 13. Effective Date
+These Terms are effective as of the date listed above.
+
+By using the Products, you acknowledge that you have read, understood, and agreed to these Terms.
+
+---
+
+The Products are copyrighted by Mattia Astorino and Vira Theme brand. No title or intellectual property rights in the Products Icons are transferred to you. Mattia Astorino and "Vira Theme" brand retains all rights not expressly granted by this license.
+
+THE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.

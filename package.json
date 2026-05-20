@@ -1,0 +1,116 @@
+{
+  "name": "vsc-material-nova",
+  "displayName": "Material Nova",
+  "description": "A Material Design-inspired VS Code theme with multiple beautiful variants — crafted for clean, elegant coding environments.",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Dhavalkurkutiya/material-nova"
+  },
+  "version": "1.0.0",
+  "publisher": "dhavalkurkutiya",
+  "author": "Dhaval Kurkutiya (https://github.com/Dhavalkurkutiya)",
+  "icon": "logo.png",
+  "galleryBanner": {
+    "color": "#11131C",
+    "theme": "dark"
+  },
+  "homepage": "https://github.com/Dhavalkurkutiya/material-nova",
+  "engines": {
+    "node": ">=12",
+    "vscode": "^1.51.0"
+  },
+  "scripts": {
+    "release": "git pull && standard-version && git push --follow-tags",
+    "release:patch": "git pull && standard-version --release-as patch && git push --follow-tags",
+    "release:major": "git pull && standard-version --release-as major && git push --follow-tags"
+  },
+  "categories": [
+    "Themes",
+    "Other"
+  ],
+  "keywords": [
+    "VSCode",
+    "material nova",
+    "material theme",
+    "material",
+    "nova",
+    "Themes"
+  ],
+  "extensionKind": [
+    "ui",
+    "workspace"
+  ],
+  "capabilities": {
+    "untrustedWorkspaces": {
+      "supported": true
+    }
+  },
+  "contributes": {
+    "themes": [
+      {
+        "label": "Material Nova",
+        "path": "./build/themes/Material-Nova-Default.json",
+        "uiTheme": "vs-dark"
+      },
+      {
+        "label": "Material Nova High Contrast",
+        "path": "./build/themes/Material-Nova-Default-High-Contrast.json",
+        "uiTheme": "vs-dark"
+      },
+      {
+        "label": "Material Nova Darker",
+        "path": "./build/themes/Material-Nova-Darker.json",
+        "uiTheme": "vs-dark"
+      },
+      {
+        "label": "Material Nova Darker High Contrast",
+        "path": "./build/themes/Material-Nova-Darker-High-Contrast.json",
+        "uiTheme": "vs-dark"
+      },
+      {
+        "label": "Material Nova Palenight",
+        "path": "./build/themes/Material-Nova-Palenight.json",
+        "uiTheme": "vs-dark"
+      },
+      {
+        "label": "Material Nova Palenight High Contrast",
+        "path": "./build/themes/Material-Nova-Palenight-High-Contrast.json",
+        "uiTheme": "vs-dark"
+      },
+      {
+        "label": "Material Nova Ocean",
+        "path": "./build/themes/Material-Nova-Ocean.json",
+        "uiTheme": "vs-dark"
+      },
+      {
+        "label": "Material Nova Ocean High Contrast",
+        "path": "./build/themes/Material-Nova-Ocean-High-Contrast.json",
+        "uiTheme": "vs-dark"
+      },
+      {
+        "label": "Material Nova Deepforest",
+        "path": "./build/themes/Material-Nova-Deepforest.json",
+        "uiTheme": "vs-dark"
+      },
+      {
+        "label": "Material Nova DeepForest High Contrast",
+        "path": "./build/themes/Material-Nova-Deepforest-High-Contrast.json",
+        "uiTheme": "vs-dark"
+      },
+      {
+        "label": "Material Nova Lighter",
+        "path": "./build/themes/Material-Nova-Lighter.json",
+        "uiTheme": "vs"
+      },
+      {
+        "label": "Material Nova Lighter High Contrast",
+        "path": "./build/themes/Material-Nova-Lighter-High-Contrast.json",
+        "uiTheme": "vs"
+      }
+    ]
+  },
+  "devDependencies": {
+    "standard-version": "9.5.0",
+    "vscode": "1.1.37"
+  }
+}

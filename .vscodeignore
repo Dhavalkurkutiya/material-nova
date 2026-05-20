@@ -1,0 +1,7 @@
+.git
+.vscode
+.vscodeignore
+.husky
+themes
+material-theme.config.json
+[Content_Types].xml
