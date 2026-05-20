@@ -1,12 +1,12 @@
 {
   "name": "vsc-material-nova",
   "displayName": "Material Nova",
-  "description": "A Material Design-inspired VS Code theme with multiple beautiful variants — crafted for clean, elegant coding environments.",
+  "description": "The ultimate Material Theme alternative! Modern dark & light variants (similar to One Dark Pro, Tokyo Night, Dracula, and Ayu) optimized for elegant coding.",
   "repository": {
     "type": "git",
     "url": "https://github.com/Dhavalkurkutiya/material-nova"
   },
-  "version": "1.0.3",
+  "version": "1.0.4",
   "publisher": "dhavalkurkutiya",
   "author": "Dhaval Kurkutiya (https://github.com/Dhavalkurkutiya)",
   "icon": "logo.png",
@@ -25,16 +25,14 @@
     "release:major": "git pull && standard-version --release-as major && git push --follow-tags"
   },
   "categories": [
-    "Themes",
-    "Other"
+    "Themes"
   ],
   "keywords": [
-    "VSCode",
-    "material nova",
     "material theme",
-    "material",
-    "nova",
-    "Themes"
+    "one dark pro",
+    "dracula",
+    "tokyo night",
+    "ayu"
   ],
   "extensionKind": [
     "ui",

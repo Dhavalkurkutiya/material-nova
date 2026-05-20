@@ -6,7 +6,7 @@
 
 <p align="center">
   <strong>A premium, modern VS Code theme built on Google's legendary Material Design palette.</strong><br />
-  Refined aesthetics, tailored high-contrast accents, and pixel-perfect semantic highlighting for the ultimate developer experience.
+  Designed as the ultimate, modern alternative to <strong>Community Material Theme</strong>, <strong>One Dark Pro</strong>, <strong>Dracula</strong>, and <strong>Tokyo Night</strong>. Enjoy refined aesthetics, tailored high-contrast accents, and pixel-perfect semantic highlighting for the ultimate developer experience.
 </p>
 
 <p align="center">
