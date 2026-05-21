@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Version-1.0.4-blue?style=for-the-badge&logo=visual-studio-code" alt="Version" />
+  <img src="https://img.shields.io/badge/Version-2.1.0-blue?style=for-the-badge&logo=visual-studio-code" alt="Version" />
   <img src="https://img.shields.io/badge/Installs-High_Growth-green?style=for-the-badge" alt="Installs" />
   <img src="https://img.shields.io/badge/Rating-★★★★★-yellow?style=for-the-badge" alt="Rating" />
   <img src="https://img.shields.io/badge/License-MIT-orange?style=for-the-badge" alt="License" />
@@ -24,7 +24,7 @@ Material Nova is not just another color scheme. It is an meticulously engineered
 
 *   🚀 **Semantic Highlighting:** Deeply optimized syntax highlighting rules for Javascript, TypeScript, React (TSX/JSX), Python, C#, HTML/CSS, and JSON.
 *   👀 **Reduced Eye Strain:** Carefully selected color contrast ratios conforming to WCAG standards, preventing fatigue during late-night debugging.
-*   📦 **12 Distinct Variants:** Access classic dark, deep pitch-black OLED, vibrant purple palenight, marine ocean, organic forest, and crisp light layouts instantly.
+*   📦 **15 Distinct Variants:** Access classic dark, deep space Nebula, soft cherry Sakura, vibrant purple Palenight, marine Ocean, organic Forest, and crisp Lighter layouts instantly.
 *   🌈 **High Contrast Mode Included:** Every single dark variant has a sister "High Contrast" edition for developers who prefer sharp borders and high visibility.
 *   ⚡ **Zero Performance Impact:** Hand-crafted pure JSON declarations with no background scripts, ensuring your VS Code editor opens and runs instantly.
 
@@ -32,7 +32,7 @@ Material Nova is not just another color scheme. It is an meticulously engineered
 
 ## 🎨 Theme Variants Reference
 
-Explore a carefully curated set of 12 variants tailored to your environmental lighting and style:
+Explore a carefully curated set of 15 premium variants tailored to your environmental lighting and style:
 
 | Variant Name | Background | Foreground | Ideal Use Case |
 | :--- | :---: | :---: | :--- |
@@ -48,6 +48,9 @@ Explore a carefully curated set of 12 variants tailored to your environmental li
 | **Material Nova Deepforest HC** | `#0D1413` | `#FFFFFF` | Rich organic high-contrast layout. |
 | **Material Nova Lighter** | `#FAFAFA` | `#90A4AE` | Perfect for bright daylight or outdoor offices. |
 | **Material Nova Lighter HC** | `#FFFFFF` | `#263238` | Maximum daylight visibility. |
+| **Material Nova Sakura** | `#1D1921` | `#E3D6DF` | Premium cherry blossom-inspired layout. |
+| **Material Nova Nebula** | `#12101E` | `#E1DFEE` | Premium celestial deep space dark theme. |
+| **Material Nova Nebula HC** | `#09080F` | `#FFFFFF` | OLED pitch-black deep space theme. |
 
 ---
 
@@ -81,11 +84,11 @@ For the ultimate experience, we recommend using these typography and rendering o
 
 ---
 
-## 📢 What's New in v1.0.4
+## 📢 What's New in v2.1.0
 
-*   ✨ **Fixed README Logo rendering** using a premium cloud-hosted ImgBB asset.
-*   🎨 **Full SEO Search Engine Optimization** update for the VS Code Marketplace.
-*   🚀 Synchronized workspace configurations and enhanced keyword tags for maximum marketplace discoverability.
+*   🌌 **Introducing 'Material Nova Nebula' & 'High Contrast'**: Two gorgeous new dark variants with galactic starlight aesthetics.
+*   🌸 **Introducing 'Material Nova Sakura'**: A highly-requested rose charcoal and peach/rose cherry blossom theme.
+*   🏗️ **Automated Theme Compilation**: Fully compiled flat palettes designed using standard-version automation and zero runtime scripts impact.
 
 ---
 

@@ -6,7 +6,7 @@
     "type": "git",
     "url": "https://github.com/Dhavalkurkutiya/material-nova"
   },
-  "version": "2.0.0",
+  "version": "2.1.0",
   "publisher": "dhavalkurkutiya",
   "author": "Dhaval Kurkutiya (https://github.com/Dhavalkurkutiya)",
   "icon": "logo.png",
@@ -124,6 +124,16 @@
       {
         "label": "Material Nova Sakura",
         "path": "./build/themes/Material-Nova-Sakura.json",
+        "uiTheme": "vs-dark"
+      },
+      {
+        "label": "Material Nova Nebula",
+        "path": "./build/themes/Material-Nova-Nebula.json",
+        "uiTheme": "vs-dark"
+      },
+      {
+        "label": "Material Nova Nebula High Contrast",
+        "path": "./build/themes/Material-Nova-Nebula-High-Contrast.json",
         "uiTheme": "vs-dark"
       }
     ]

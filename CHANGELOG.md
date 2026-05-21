@@ -2,6 +2,12 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [2.1.0] (2026-05-21)
+
+### Added
+- **New Variant - Material Nova Nebula**: Added a stunning premium dark theme variant featuring deep celestial space violet backgrounds (`#12101E`), soft starlight foregrounds, and vibrant neon pink/magenta (`#FF52A2`), starlight cyan (`#00F0FF`), and amber/gold accents.
+- **New Variant - Material Nova Nebula High Contrast**: Added a sharp, deep space pitch-black/OLED theme variant (`#09080F`) designed for absolute visual clarity and high-contrast night coding.
+
 ## [2.0.0](https://github.com/Dhavalkurkutiya/material-nova/compare/v1.0.7...v2.0.0) (2026-05-20)
 
 
