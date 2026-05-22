@@ -16,6 +16,10 @@
   <img src="https://img.shields.io/badge/License-MIT-orange?style=for-the-badge" alt="License" />
 </p>
 
+<p align="center">
+  <iframe src="https://github.com/sponsors/Dhavalkurkutiya/button" title="Sponsor Dhavalkurkutiya" height="32" width="114" style="border: 0; border-radius: 6px;"></iframe>
+</p>
+
 ---
 
 ## 🌟 Why Material Nova?
@@ -89,6 +93,16 @@ For the ultimate experience, we recommend using these typography and rendering o
 *   🌌 **Introducing 'Material Nova Nebula' & 'High Contrast'**: Two gorgeous new dark variants with galactic starlight aesthetics.
 *   🌸 **Introducing 'Material Nova Sakura'**: A highly-requested rose charcoal and peach/rose cherry blossom theme.
 *   🏗️ **Automated Theme Compilation**: Fully compiled flat palettes designed using standard-version automation and zero runtime scripts impact.
+
+---
+
+## 💖 Support This Project
+
+If you enjoy Material Nova and want to support its development, consider sponsoring!
+
+<p align="center">
+  <iframe src="https://github.com/sponsors/Dhavalkurkutiya/card" title="Sponsor Dhavalkurkutiya" height="225" width="600" style="border: 0;"></iframe>
+</p>
 
 ---
 
