@@ -16,9 +16,6 @@
   <img src="https://img.shields.io/badge/License-MIT-orange?style=for-the-badge" alt="License" />
 </p>
 
-<p align="center">
-  <iframe src="https://github.com/sponsors/Dhavalkurkutiya/button" title="Sponsor Dhavalkurkutiya" height="32" width="114" style="border: 0; border-radius: 6px;"></iframe>
-</p>
 
 ---
 
