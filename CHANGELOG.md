@@ -2,6 +2,12 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [2.2.0] (2026-05-30)
+
+### Added
+- **Integrated Premium Button Styling**: Added explicit style tokens for all theme buttons, including primary button hover states and standard/secondary buttons (such as "Clone Repository" on the welcome screen, dialog buttons, etc.) across all 15 palettes.
+- **Enhanced Welcome Page Integration**: Designed pixel-perfect color mappings for the welcome page background, tiles, hover states, and borders, ensuring the start page feels cohesive and luxurious under any selected theme variant.
+
 ## [2.1.0] (2026-05-21)
 
 ### Added

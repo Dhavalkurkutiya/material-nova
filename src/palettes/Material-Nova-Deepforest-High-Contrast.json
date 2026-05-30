@@ -262,5 +262,13 @@
     "colors.listFilterWidget.background": "#00000030",
     "colors.listFilterWidget.outline": "#00000030",
     "colors.listFilterWidget.noMatchesOutline": "#00000030",
-    "colors.terminalCommandGuide.foreground": "#52735C80"
+    "colors.terminalCommandGuide.foreground": "#52735C80",
+    "colors.button.hoverBackground": "#71B48070",
+    "colors.button.secondaryBackground": "#1A2520",
+    "colors.button.secondaryForeground": "#C2EDD3",
+    "colors.button.secondaryHoverBackground": "#1d2a24",
+    "colors.welcomePage.background": "#141F1D",
+    "colors.welcomePage.tileBackground": "#1A2520",
+    "colors.welcomePage.tileHoverBackground": "#1d2a24",
+    "colors.welcomePage.tileBorder": "#FFFFFF10"
 }
