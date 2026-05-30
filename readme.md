@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Version-2.1.0-blue?style=for-the-badge&logo=visual-studio-code" alt="Version" />
+  <img src="https://img.shields.io/badge/Version-2.3.0-blue?style=for-the-badge&logo=visual-studio-code" alt="Version" />
   <img src="https://img.shields.io/badge/Installs-High_Growth-green?style=for-the-badge" alt="Installs" />
   <img src="https://img.shields.io/badge/Rating-★★★★★-yellow?style=for-the-badge" alt="Rating" />
   <img src="https://img.shields.io/badge/License-MIT-orange?style=for-the-badge" alt="License" />
@@ -25,7 +25,7 @@ Material Nova is not just another color scheme. It is an meticulously engineered
 
 *   🚀 **Semantic Highlighting:** Deeply optimized syntax highlighting rules for Javascript, TypeScript, React (TSX/JSX), Python, C#, HTML/CSS, and JSON.
 *   👀 **Reduced Eye Strain:** Carefully selected color contrast ratios conforming to WCAG standards, preventing fatigue during late-night debugging.
-*   📦 **15 Distinct Variants:** Access classic dark, deep space Nebula, soft cherry Sakura, vibrant purple Palenight, marine Ocean, organic Forest, and crisp Lighter layouts instantly.
+*   📦 **19 Distinct Variants:** Access classic dark, deep space Nebula, soft cherry Sakura, retro warm Gruvbox, vibrant purple Palenight, marine Ocean, organic Forest, glowing Synthwave, and crisp Lighter layouts instantly.
 *   🌈 **High Contrast Mode Included:** Every single dark variant has a sister "High Contrast" edition for developers who prefer sharp borders and high visibility.
 *   ⚡ **Zero Performance Impact:** Hand-crafted pure JSON declarations with no background scripts, ensuring your VS Code editor opens and runs instantly.
 
@@ -33,7 +33,7 @@ Material Nova is not just another color scheme. It is an meticulously engineered
 
 ## 🎨 Theme Variants Reference
 
-Explore a carefully curated set of 15 premium variants tailored to your environmental lighting and style:
+Explore a carefully curated set of 19 premium variants tailored to your environmental lighting and style:
 
 | Variant Name | Background | Foreground | Ideal Use Case |
 | :--- | :---: | :---: | :--- |
@@ -52,6 +52,10 @@ Explore a carefully curated set of 15 premium variants tailored to your environm
 | **Material Nova Sakura** | `#1D1921` | `#E3D6DF` | Premium cherry blossom-inspired layout. |
 | **Material Nova Nebula** | `#12101E` | `#E1DFEE` | Premium celestial deep space dark theme. |
 | **Material Nova Nebula HC** | `#09080F` | `#FFFFFF` | OLED pitch-black deep space theme. |
+| **Material Nova Gruvbox** | `#282828` | `#FBF1C7` | Warm retro-analog cozy theme to reduce eye fatigue. |
+| **Material Nova Gruvbox HC** | `#1D2021` | `#FFFFFF` | High-contrast dark Gruvbox OLED variant. |
+| **Material Nova Synthwave** | `#261435` | `#E1DFEE` | Glowing neon cyberpunk/synthwave aesthetic. |
+| **Material Nova Synthwave HC** | `#180B22` | `#FFFFFF` | Pitch-black neon OLED space theme. |
 
 ---
 
@@ -80,16 +84,17 @@ For the ultimate experience, we recommend using these typography and rendering o
   "editor.fontLigatures": true,
   "editor.cursorBlinking": "smooth",
   "editor.cursorSmoothCaretAnimation": "on"
+  // Tip: Combine with 'Material Icon Theme' or 'Dracula Icons' for a complete setup!
 }
 ```
 
 ---
 
-## 📢 What's New in v2.1.0
+## 📢 What's New in v2.3.0
 
-*   🌌 **Introducing 'Material Nova Nebula' & 'High Contrast'**: Two gorgeous new dark variants with galactic starlight aesthetics.
-*   🌸 **Introducing 'Material Nova Sakura'**: A highly-requested rose charcoal and peach/rose cherry blossom theme.
-*   🏗️ **Automated Theme Compilation**: Fully compiled flat palettes designed using standard-version automation and zero runtime scripts impact.
+*   🪵 **Gruvbox Integration**: Added the gorgeous **Material Nova Gruvbox** and **High Contrast** editions for Vim/Neovim enthusiasts who love a warm, earthy, cozy retro-analog workspace.
+*   ⚡ **Synthwave/Cyberpunk Integration**: Added **Material Nova Synthwave** and **High Contrast** featuring electric neon colors on dark violet space backgrounds.
+*   🎨 **Premium Theme Polish**: Fully unified hover and welcome screen tile styling across all 19 theme variants.
 
 ---
 

@@ -6,7 +6,7 @@
     "type": "git",
     "url": "https://github.com/Dhavalkurkutiya/material-nova"
   },
-  "version": "2.2.0",
+  "version": "2.3.0",
   "publisher": "dhavalkurkutiya",
   "author": "Dhaval Kurkutiya (https://github.com/Dhavalkurkutiya)",
   "icon": "logo.png",
@@ -134,6 +134,26 @@
       {
         "label": "Material Nova Nebula High Contrast",
         "path": "./build/themes/Material-Nova-Nebula-High-Contrast.json",
+        "uiTheme": "vs-dark"
+      },
+      {
+        "label": "Material Nova Gruvbox",
+        "path": "./build/themes/Material-Nova-Gruvbox.json",
+        "uiTheme": "vs-dark"
+      },
+      {
+        "label": "Material Nova Gruvbox High Contrast",
+        "path": "./build/themes/Material-Nova-Gruvbox-High-Contrast.json",
+        "uiTheme": "vs-dark"
+      },
+      {
+        "label": "Material Nova Synthwave",
+        "path": "./build/themes/Material-Nova-Synthwave.json",
+        "uiTheme": "vs-dark"
+      },
+      {
+        "label": "Material Nova Synthwave High Contrast",
+        "path": "./build/themes/Material-Nova-Synthwave-High-Contrast.json",
         "uiTheme": "vs-dark"
       }
     ]

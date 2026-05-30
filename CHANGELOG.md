@@ -2,6 +2,14 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [2.3.0] (2026-05-30)
+
+### Added
+- **New Variant - Material Nova Gruvbox**: Added a highly requested, warm retro-analog theme featuring soft pastel accents on a cozy warm-charcoal background (`#282828`) to minimize eye strain.
+- **New Variant - Material Nova Gruvbox High Contrast**: Designed an extra-crisp dark Gruvbox OLED variant (`#1D2021`) for high-contrast Vim/Neovim enthusiasts.
+- **New Variant - Material Nova Synthwave**: Added a stunning, glowing futuristic theme featuring electric neon pinks, cyans, and purples on a gorgeous dark-violet background (`#261435`) for gaming-inspired coding.
+- **New Variant - Material Nova Synthwave High Contrast**: Added a pitch-black neon OLED space theme (`#180B22`) designed for maximum neon pop and ultimate late-night coding sessions.
+
 ## [2.2.0] (2026-05-30)
 
 ### Added
