@@ -93,16 +93,6 @@ For the ultimate experience, we recommend using these typography and rendering o
 
 ---
 
-## 💖 Support This Project
-
-If you enjoy Material Nova and want to support its development, consider sponsoring!
-
-<p align="center">
-  <iframe src="https://github.com/sponsors/Dhavalkurkutiya/card" title="Sponsor Dhavalkurkutiya" height="225" width="600" style="border: 0;"></iframe>
-</p>
-
----
-
 ## 👨‍💻 Designed & Developed By
 
 This extension is crafted with passion by:
