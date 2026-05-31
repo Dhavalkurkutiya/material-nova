@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Version-2.3.0-blue?style=for-the-badge&logo=visual-studio-code" alt="Version" />
+  <img src="https://img.shields.io/badge/Version-2.3.1-blue?style=for-the-badge&logo=visual-studio-code" alt="Version" />
   <img src="https://img.shields.io/badge/Installs-High_Growth-green?style=for-the-badge" alt="Installs" />
   <img src="https://img.shields.io/badge/Rating-★★★★★-yellow?style=for-the-badge" alt="Rating" />
   <img src="https://img.shields.io/badge/License-MIT-orange?style=for-the-badge" alt="License" />
@@ -59,6 +59,67 @@ Explore a carefully curated set of 19 premium variants tailored to your environm
 
 ---
 
+## 📸 Visual Previews & Gallery
+
+### Material Nova Default
+![Material Nova Default](images/material-nova-default.png)
+
+### Material Nova Default High Contrast
+![Material Nova Default High Contrast](images/material-nova-default-hc.png)
+
+### Material Nova Darker
+![Material Nova Darker](images/material-nova-darker.png)
+
+### Material Nova Darker High Contrast
+![Material Nova Darker High Contrast](images/material-nova-darker-hc.png)
+
+### Material Nova Palenight
+![Material Nova Palenight](images/material-nova-palenight.png)
+
+### Material Nova Palenight High Contrast
+![Material Nova Palenight High Contrast](images/material-nova-palenight-hc.png)
+
+### Material Nova Ocean
+![Material Nova Ocean](images/material-nova-ocean.png)
+
+### Material Nova Ocean High Contrast
+![Material Nova Ocean High Contrast](images/material-nova-ocean-hc.png)
+
+### Material Nova Deepforest
+![Material Nova Deepforest](images/material-nova-deepforest.png)
+
+### Material Nova Deepforest High Contrast
+![Material Nova Deepforest High Contrast](images/material-nova-deepforest-hc.png)
+
+### Material Nova Sakura
+![Material Nova Sakura](images/material-nova-sakura.png)
+
+### Material Nova Nebula
+![Material Nova Nebula](images/material-nova-nebula.png)
+
+### Material Nova Nebula High Contrast
+![Material Nova Nebula High Contrast](images/material-nova-nebula-hc.png)
+
+### Material Nova Gruvbox
+![Material Nova Gruvbox](images/material-nova-gruvbox.png)
+
+### Material Nova Gruvbox High Contrast
+![Material Nova Gruvbox High Contrast](images/material-nova-gruvbox-hc.png)
+
+### Material Nova Synthwave
+![Material Nova Synthwave](images/material-nova-synthwave.png)
+
+### Material Nova Synthwave High Contrast
+![Material Nova Synthwave High Contrast](images/material-nova-synthwave-hc.png)
+
+### Material Nova Lighter
+![Material Nova Lighter](images/material-nova-lighter.png)
+
+### Material Nova Lighter High Contrast
+![Material Nova Lighter High Contrast](images/material-nova-lighter-hc.png)
+
+---
+
 ## 🚀 Quick Setup & Installation
 
 Follow these simple steps to activate Material Nova:
@@ -90,11 +151,11 @@ For the ultimate experience, we recommend using these typography and rendering o
 
 ---
 
-## 📢 What's New in v2.3.0
+## 📢 What's New in v2.3.1
 
-*   🪵 **Gruvbox Integration**: Added the gorgeous **Material Nova Gruvbox** and **High Contrast** editions for Vim/Neovim enthusiasts who love a warm, earthy, cozy retro-analog workspace.
-*   ⚡ **Synthwave/Cyberpunk Integration**: Added **Material Nova Synthwave** and **High Contrast** featuring electric neon colors on dark violet space backgrounds.
-*   🎨 **Premium Theme Polish**: Fully unified hover and welcome screen tile styling across all 19 theme variants.
+*   📸 **Complete Visual Previews Gallery**: Included 19 high-definition screenshot files inside the `images/` directory and rendered them directly inside the `README.md` for a breathtaking visual showcase.
+*   🪵 **Gruvbox & Synthwave Previews**: Added gorgeous screenshots for our newly launched vintage Gruvbox and glowing neon Synthwave themes.
+*   🎨 **Sleek Layout Adjustments**: Aligned formatting and assets for maximum visual appeal on the VS Code Marketplace.
 
 ---
 

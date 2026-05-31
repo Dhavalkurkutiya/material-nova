@@ -2,6 +2,12 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [2.3.1] (2026-05-31)
+
+### Added
+- **Full Visual Gallery**: Integrated 19 premium screenshot assets directly inside the extension package.
+- **Interactive Previews**: Created an organized, collapsible Markdown visual gallery inside `README.md` to preview all 19 unique theme variants in a highly polished, distraction-free interface.
+
 ## [2.3.0] (2026-05-30)
 
 ### Added
